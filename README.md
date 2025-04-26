@@ -1,4 +1,3 @@
-# road-accident-etl
 
 # Traffic Accident ETL and Analysis
 
